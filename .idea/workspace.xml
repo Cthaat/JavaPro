@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="final">
-      <change afterPath="$PROJECT_DIR$/Interface/Interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/Interface/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/Interface/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/Interface/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/Interface/Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/Students/ClassManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/Students/Operator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/Students/Operator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/Students/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/Students/StudentOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/Students/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +44,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="Interface" />
-                    <option name="lastUsedInstant" value="1704552144" />
+                    <option name="branchName" value="Students" />
+                    <option name="lastUsedInstant" value="1704553159" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -78,7 +78,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Interface",
+    "git-widget-placeholder": "Students",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -154,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704516494119</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Interface">
+      <option name="closed" value="true" />
+      <created>1704553131771</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704553131771</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +197,9 @@
     <MESSAGE value="static" />
     <MESSAGE value="mkdir Polymorphism" />
     <MESSAGE value="final" />
-    <option name="LAST_COMMIT_MESSAGE" value="final" />
+    <MESSAGE value="Abstract" />
+    <MESSAGE value="Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
