@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="final">
-      <change afterPath="$PROJECT_DIR$/Polymorphism/src/jdk/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism/src/jdk/jdk.java" afterDir="false" />
-    </list>
+    <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="jdk8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +82,8 @@
     "vue.rearranger.settings.migration": "true",
     "应用程序.Interface.executor": "Run",
     "应用程序.Polymorphism.executor": "Run",
-    "应用程序.demo01.executor": "Run"
+    "应用程序.demo01.executor": "Run",
+    "应用程序.jdk.executor": "Run"
   }
 }]]></component>
   <component name="RebelAgentSelection">
@@ -157,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704553131771</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="jdk8">
+      <option name="closed" value="true" />
+      <created>1704554850763</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704554850763</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +200,8 @@
     <MESSAGE value="final" />
     <MESSAGE value="Abstract" />
     <MESSAGE value="Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface" />
+    <MESSAGE value="jdk8" />
+    <option name="LAST_COMMIT_MESSAGE" value="jdk8" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
