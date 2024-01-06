@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="static">
-      <change afterPath="$PROJECT_DIR$/Static/src/stati/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inherit/inherit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inherit/src/inherit/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inherit/src/inherit/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inherit/src/inherit/demo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="static" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,8 +35,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="inherit" />
-                    <option name="lastUsedInstant" value="1704510337" />
+                    <option name="branchName" value="Polymorphism" />
+                    <option name="lastUsedInstant" value="1704514276" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -76,7 +68,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "inherit",
+    "git-widget-placeholder": "Polymorphism",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -144,7 +136,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
