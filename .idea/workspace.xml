@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="final">
-      <change afterPath="$PROJECT_DIR$/Interface/src/Students/ClassManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/Students/Operator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/Students/Operator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/Students/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/Students/StudentOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/Students/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism/src/jdk/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism/src/jdk/jdk.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -44,8 +39,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="Students" />
-                    <option name="lastUsedInstant" value="1704553159" />
+                    <option name="branchName" value="jdk8" />
+                    <option name="lastUsedInstant" value="1704554252" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -78,7 +73,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Students",
+    "git-widget-placeholder": "jdk8",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
