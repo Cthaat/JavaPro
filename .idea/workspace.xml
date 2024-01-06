@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="final">
-      <change afterPath="$PROJECT_DIR$/Polymorphism/src/Abstract/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism/src/Abstract/Abstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/Interface/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/Interface/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/Interface/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/Interface/Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,8 +44,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="Abstract" />
-                    <option name="lastUsedInstant" value="1704516534" />
+                    <option name="branchName" value="Interface" />
+                    <option name="lastUsedInstant" value="1704552144" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -73,7 +78,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Abstract",
+    "git-widget-placeholder": "Interface",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -81,7 +86,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "cn.yiiguxing.plugin.translate",
     "vue.rearranger.settings.migration": "true",
+    "应用程序.Interface.executor": "Run",
     "应用程序.Polymorphism.executor": "Run",
     "应用程序.demo01.executor": "Run"
   }
@@ -183,5 +190,9 @@
     <MESSAGE value="mkdir Polymorphism" />
     <MESSAGE value="final" />
     <option name="LAST_COMMIT_MESSAGE" value="final" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
