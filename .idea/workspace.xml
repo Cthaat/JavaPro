@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="mkdir Polymorphism">
-      <change afterPath="$PROJECT_DIR$/Polymorphism/src/Polymorphism/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism/src/Polymorphism/Polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism/src/Polymorphism/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism/src/Polymorphism/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism/src/Final/Final.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +38,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="Polymorphism" />
-                    <option name="lastUsedInstant" value="1704514276" />
+                    <option name="branchName" value="final" />
+                    <option name="lastUsedInstant" value="1704515353" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -75,7 +72,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Polymorphism",
+    "git-widget-placeholder": "final",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
