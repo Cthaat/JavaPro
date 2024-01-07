@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="jdk8" />
+    <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="jdk8">
+      <change afterPath="$PROJECT_DIR$/Inner/Inner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inner/src/Inner/Inner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inner/src/Inner/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inner/src/Inner/Swim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,8 +43,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="jdk8" />
-                    <option name="lastUsedInstant" value="1704554252" />
+                    <option name="branchName" value="Inner" />
+                    <option name="lastUsedInstant" value="1704597661" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -70,7 +77,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "jdk8",
+    "git-widget-placeholder": "Inner",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -106,6 +113,7 @@
       <updated>1704460991578</updated>
       <workItem from="1704460992571" duration="3207000" />
       <workItem from="1704510160834" duration="3693000" />
+      <workItem from="1704597510406" duration="1398000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <option name="closed" value="true" />
