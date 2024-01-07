@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="jdk8">
-      <change afterPath="$PROJECT_DIR$/GUI/GUI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/gui/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enumerate/enumerate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enumerate/src/enumerate/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enumerate/src/enumerate/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enumerate/src/enumerate/test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -20,6 +22,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -41,8 +44,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="GUI" />
-                    <option name="lastUsedInstant" value="1704599151" />
+                    <option name="branchName" value="enumerate" />
+                    <option name="lastUsedInstant" value="1704600140" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -56,6 +59,9 @@
         </option>
       </RecentBranches>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Static/src/stati/demo1.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -75,7 +81,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "GUI",
+    "git-widget-placeholder": "enumerate",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -83,13 +89,14 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "cn.yiiguxing.plugin.translate",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Interface.executor": "Run",
     "应用程序.Polymorphism.executor": "Run",
     "应用程序.demo01.executor": "Run",
     "应用程序.jdk.executor": "Run",
-    "应用程序.test.executor": "Run"
+    "应用程序.test.executor": "Run",
+    "应用程序.test1.executor": "Run"
   }
 }]]></component>
   <component name="RebelAgentSelection">
@@ -170,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704554850763</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="GUI">
+      <option name="closed" value="true" />
+      <created>1704600071512</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704600071512</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

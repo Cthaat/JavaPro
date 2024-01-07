@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaPro.iml" filepath="$PROJECT_DIR$/JavaPro.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumerate/enumerate.iml" filepath="$PROJECT_DIR$/enumerate/enumerate.iml" />
       <module fileurl="file://$PROJECT_DIR$/inherit/inherit.iml" filepath="$PROJECT_DIR$/inherit/inherit.iml" />
     </modules>
   </component>
