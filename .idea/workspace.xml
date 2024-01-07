@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="jdk8">
-      <change afterPath="$PROJECT_DIR$/Inner/Inner.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inner/src/Inner/Inner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inner/src/Inner/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inner/src/Inner/Swim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/GUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/gui/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -20,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -43,8 +41,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="Inner" />
-                    <option name="lastUsedInstant" value="1704597661" />
+                    <option name="branchName" value="GUI" />
+                    <option name="lastUsedInstant" value="1704599151" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -77,7 +75,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Inner",
+    "git-widget-placeholder": "GUI",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -90,7 +88,8 @@
     "应用程序.Interface.executor": "Run",
     "应用程序.Polymorphism.executor": "Run",
     "应用程序.demo01.executor": "Run",
-    "应用程序.jdk.executor": "Run"
+    "应用程序.jdk.executor": "Run",
+    "应用程序.test.executor": "Run"
   }
 }]]></component>
   <component name="RebelAgentSelection">
@@ -209,7 +208,8 @@
     <MESSAGE value="Abstract" />
     <MESSAGE value="Interface" />
     <MESSAGE value="jdk8" />
-    <option name="LAST_COMMIT_MESSAGE" value="jdk8" />
+    <MESSAGE value="Inner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inner" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
