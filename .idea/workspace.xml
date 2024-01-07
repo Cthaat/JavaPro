@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="jdk8">
-      <change afterPath="$PROJECT_DIR$/enumerate/enumerate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumerate/src/enumerate/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumerate/src/enumerate/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumerate/src/enumerate/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics/Generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics/src/Generics/test01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -21,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -44,8 +42,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="enumerate" />
-                    <option name="lastUsedInstant" value="1704600140" />
+                    <option name="branchName" value="Generics" />
+                    <option name="lastUsedInstant" value="1704602204" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -81,7 +79,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "enumerate",
+    "git-widget-placeholder": "Generics",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -224,7 +222,8 @@
     <MESSAGE value="Interface" />
     <MESSAGE value="jdk8" />
     <MESSAGE value="Inner" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inner" />
+    <MESSAGE value="enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="enum" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
