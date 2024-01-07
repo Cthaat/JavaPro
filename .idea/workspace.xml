@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="jdk8">
-      <change afterPath="$PROJECT_DIR$/Generics/Generics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/Generics/test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="Generics" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704600071512</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Generics">
+      <option name="closed" value="true" />
+      <created>1704604211248</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704604211248</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +226,8 @@
     <MESSAGE value="jdk8" />
     <MESSAGE value="Inner" />
     <MESSAGE value="enum" />
-    <option name="LAST_COMMIT_MESSAGE" value="enum" />
+    <MESSAGE value="Generics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generics" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
