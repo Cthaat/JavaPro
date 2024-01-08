@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="Generics" />
+    <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="Generics">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +29,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Cthaat"
+  }
+}]]></component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
@@ -51,6 +59,14 @@
           </list>
         </option>
       </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e73e929a-60ce-4250-a3b1-1500b5149491" />
+        <option name="url" value="https://github.com/Cthaat/JavaPro.git" />
+      </UrlAndAccount>
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -114,7 +130,7 @@
       <workItem from="1704510160834" duration="3693000" />
       <workItem from="1704597510406" duration="1398000" />
       <workItem from="1704634543067" duration="416000" />
-      <workItem from="1704718066752" duration="394000" />
+      <workItem from="1704718066752" duration="1103000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <option name="closed" value="true" />
@@ -204,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704718457693</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Generics">
+      <option name="closed" value="true" />
+      <created>1704718823946</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704718823946</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
