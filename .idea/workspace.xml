@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="Object">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object/src/join/join.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object/src/ob/example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/src/Int/Int.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/src/Int/Int.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +48,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="Object" />
-                    <option name="lastUsedInstant" value="1704719453" />
+                    <option name="branchName" value="example" />
+                    <option name="lastUsedInstant" value="1704777578" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -92,7 +94,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Object",
+    "git-widget-placeholder": "example",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -107,7 +109,9 @@
     "应用程序.Polymorphism.executor": "Run",
     "应用程序.demo01.executor": "Run",
     "应用程序.demo1.executor": "Run",
+    "应用程序.example.executor": "Run",
     "应用程序.jdk.executor": "Run",
+    "应用程序.join.executor": "Run",
     "应用程序.test.executor": "Run",
     "应用程序.test1.executor": "Run"
   }
