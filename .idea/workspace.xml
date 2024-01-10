@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="API">
-      <change beforePath="$PROJECT_DIR$/API/src/date/per.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/date/per.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/src/date/dur.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/date/dur.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,10 +112,12 @@
     "应用程序.date.executor": "Run",
     "应用程序.demo01.executor": "Run",
     "应用程序.demo1.executor": "Run",
+    "应用程序.dur.executor": "Run",
     "应用程序.example.executor": "Run",
     "应用程序.ins.executor": "Run",
     "应用程序.jdk.executor": "Run",
     "应用程序.join.executor": "Run",
+    "应用程序.per.executor": "Run",
     "应用程序.test.executor": "Run",
     "应用程序.test1.executor": "Run"
   }
@@ -145,7 +147,7 @@
       <workItem from="1704718066752" duration="1103000" />
       <workItem from="1704775605747" duration="1057000" />
       <workItem from="1704776674105" duration="358000" />
-      <workItem from="1704865373243" duration="3600000" />
+      <workItem from="1704865373243" duration="3926000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <option name="closed" value="true" />
@@ -299,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704869261139</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="API">
+      <option name="closed" value="true" />
+      <created>1704869477243</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1704869477243</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
