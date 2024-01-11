@@ -20,7 +20,8 @@ public class arr
         Integer[] arr5 = new Integer[] {9 , 1 , 6 , 51 , 9 , 12 , 6 , 16 , 1 , 6};
         Arrays.sort(arr5);
         System.out.println(Arrays.toString(arr5));
-        Arrays.sort(arr5 , (o1 , o2) -> o2 - o1);
+        com c = new com();
+        Arrays.sort(arr5 , c::compare1);
         System.out.println(Arrays.toString(arr5));
     }
 }
