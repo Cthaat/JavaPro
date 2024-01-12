@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="API">
-      <change afterPath="$PROJECT_DIR$/algs/algs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs/src/algs/test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular/Regular.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular/src/Regular/test01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -48,8 +48,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="algs" />
-                    <option name="lastUsedInstant" value="1705028250" />
+                    <option name="branchName" value="Regular" />
+                    <option name="lastUsedInstant" value="1705029504" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -94,7 +94,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "algs",
+    "git-widget-placeholder": "Regular",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
