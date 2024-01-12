@@ -23,5 +23,7 @@ public class arr
         com c = new com();
         Arrays.sort(arr5 , c::compare1);
         System.out.println(Arrays.toString(arr5));
+        String[] arr6 = new String[] {"abc" , "def" , "ghi"};
+        Arrays.sort(arr6 , String::compareToIgnoreCase);
     }
 }
