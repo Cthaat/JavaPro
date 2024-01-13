@@ -9,6 +9,8 @@ public class test01
         String a;
         a = "16630979651";
         System.out.println(a.matches("(1[3-9]\\d{9})|(0\\d{2}-?\\d{8})"));
+        a = "dsadklas";
+        System.out.println(a.matches("[a-zA-Z]{8}"));
     }
 
     public static boolean checkQQ(String QQ)

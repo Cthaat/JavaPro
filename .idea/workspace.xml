@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="API">
-      <change afterPath="$PROJECT_DIR$/Regular/Regular.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular/src/Regular/test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="Regular" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -379,7 +374,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705028213070</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Regular">
+      <option name="closed" value="true" />
+      <created>1705030833501</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1705030833501</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,7 +427,8 @@
     <MESSAGE value="example" />
     <MESSAGE value="API" />
     <MESSAGE value="doctor" />
-    <option name="LAST_COMMIT_MESSAGE" value="doctor" />
+    <MESSAGE value="Regular" />
+    <option name="LAST_COMMIT_MESSAGE" value="Regular" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
