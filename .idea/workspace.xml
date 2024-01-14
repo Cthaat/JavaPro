@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="Arr">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arr/src/collection/list.java" beforeDir="false" afterPath="$PROJECT_DIR$/arr/src/collection/list.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arr/src/collection/set.java" beforeDir="false" afterPath="$PROJECT_DIR$/arr/src/collection/set.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -405,7 +405,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705153639430</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Arr">
+      <option name="closed" value="true" />
+      <created>1705217042310</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1705217042310</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
