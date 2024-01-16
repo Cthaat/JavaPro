@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="Arr">
-      <change afterPath="$PROJECT_DIR$/arr/src/collection/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arr/src/collection/collections.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,6 +113,7 @@
     "应用程序.analysis.executor": "Run",
     "应用程序.arr.executor": "Run",
     "应用程序.cale.executor": "Run",
+    "应用程序.collections.executor": "Run",
     "应用程序.date.executor": "Run",
     "应用程序.demo01.executor": "Run",
     "应用程序.demo1.executor": "Run",
@@ -166,7 +167,8 @@
       <workItem from="1704944223625" duration="2758000" />
       <workItem from="1705024220757" duration="413000" />
       <workItem from="1705112775155" duration="1283000" />
-      <workItem from="1705217127898" duration="2361000" />
+      <workItem from="1705217127898" duration="2563000" />
+      <workItem from="1705402699133" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <option name="closed" value="true" />
@@ -432,7 +434,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705217794231</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Arr">
+      <option name="closed" value="true" />
+      <created>1705219721198</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1705219721198</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
