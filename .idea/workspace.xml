@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="Arr">
-      <change afterPath="$PROJECT_DIR$/arr/src/collection/collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arr/src/landlords/card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arr/src/landlords/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arr/src/landlords/room.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,6 +102,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.sourceCode.Java",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Forma.executor": "Run",
@@ -115,6 +120,7 @@
     "应用程序.cale.executor": "Run",
     "应用程序.collections.executor": "Run",
     "应用程序.date.executor": "Run",
+    "应用程序.demo.executor": "Run",
     "应用程序.demo01.executor": "Run",
     "应用程序.demo1.executor": "Run",
     "应用程序.dur.executor": "Run",
@@ -168,7 +174,7 @@
       <workItem from="1705024220757" duration="413000" />
       <workItem from="1705112775155" duration="1283000" />
       <workItem from="1705217127898" duration="2563000" />
-      <workItem from="1705402699133" duration="626000" />
+      <workItem from="1705402699133" duration="2953000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <option name="closed" value="true" />
@@ -442,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705219721198</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Arr">
+      <option name="closed" value="true" />
+      <created>1705403489342</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1705403489342</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
