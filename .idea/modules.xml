@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/doctor/doctor.iml" filepath="$PROJECT_DIR$/doctor/doctor.iml" />
       <module fileurl="file://$PROJECT_DIR$/enumerate/enumerate.iml" filepath="$PROJECT_DIR$/enumerate/enumerate.iml" />
       <module fileurl="file://$PROJECT_DIR$/inherit/inherit.iml" filepath="$PROJECT_DIR$/inherit/inherit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map/map.iml" filepath="$PROJECT_DIR$/map/map.iml" />
     </modules>
   </component>
 </project>

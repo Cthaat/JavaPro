@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="Arr">
+      <change afterPath="$PROJECT_DIR$/map/map.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map/src/hash/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +48,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="arr" />
-                    <option name="lastUsedInstant" value="1705116646" />
+                    <option name="branchName" value="map" />
+                    <option name="lastUsedInstant" value="1705459383" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -85,56 +88,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;arr&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.Forma.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Int.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Interface.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Lam.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Local.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Polymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Simple.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Tree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.analysis.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.arr.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.cale.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.collections.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.date.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.demo.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.demo01.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.demo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.dur.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.example.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.foretch.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ins.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.it.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.jdk.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.join.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.per.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.set.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.test.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.test01.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.test03.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.test1.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "map",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Forma.executor": "Run",
+    "应用程序.Int.executor": "Run",
+    "应用程序.Interface.executor": "Run",
+    "应用程序.Lam.executor": "Run",
+    "应用程序.Local.executor": "Run",
+    "应用程序.Polymorphism.executor": "Run",
+    "应用程序.Simple.executor": "Run",
+    "应用程序.Tree.executor": "Run",
+    "应用程序.analysis.executor": "Run",
+    "应用程序.arr.executor": "Run",
+    "应用程序.cale.executor": "Run",
+    "应用程序.collections.executor": "Run",
+    "应用程序.date.executor": "Run",
+    "应用程序.demo.executor": "Run",
+    "应用程序.demo01.executor": "Run",
+    "应用程序.demo1.executor": "Run",
+    "应用程序.dur.executor": "Run",
+    "应用程序.example.executor": "Run",
+    "应用程序.foretch.executor": "Run",
+    "应用程序.ins.executor": "Run",
+    "应用程序.it.executor": "Run",
+    "应用程序.jdk.executor": "Run",
+    "应用程序.join.executor": "Run",
+    "应用程序.per.executor": "Run",
+    "应用程序.set.executor": "Run",
+    "应用程序.test.executor": "Run",
+    "应用程序.test01.executor": "Run",
+    "应用程序.test03.executor": "Run",
+    "应用程序.test1.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
