@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="Map">
-      <change afterPath="$PROJECT_DIR$/test/src/test1/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/test1/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="2192be30-5bcb-4de8-bd0c-f6d728ec8107" name="更改" comment="Lucky Survivor">
+      <change afterPath="$PROJECT_DIR$/test/src/test2/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test2/demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -484,7 +482,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705463060359</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Lucky Survivor">
+      <option name="closed" value="true" />
+      <created>1705541108780</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1705541108780</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +538,8 @@
     <MESSAGE value="Regular" />
     <MESSAGE value="Arr" />
     <MESSAGE value="Map" />
-    <option name="LAST_COMMIT_MESSAGE" value="Map" />
+    <MESSAGE value="Lucky Survivor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lucky Survivor" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
